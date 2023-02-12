@@ -1,7 +1,7 @@
 import React from 'react';
 
 function App() {
-  const value = 'RANGER';
+  const value = 'RANGER-one';
   return <div>Hello {value}</div>;
 }
 
